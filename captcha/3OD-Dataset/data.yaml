@@ -1,0 +1,53 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: 2
+  1: 3
+  2: 4
+  3: 5
+  4: 6
+  5: 7
+  6: 8
+  7: 9
+  8: A-hoa
+  9: E-hoa
+  10: F
+  11: G-hoa
+  12: H-hoa
+  13: M-hoa
+  14: R
+  15: R-hoa
+  16: Y
+  17: Y-hoa
+  18: a
+  19: b
+  20: c
+  21: cau
+  22: d
+  23: dagiac
+  24: e
+  25: g
+  26: g hoa
+  27: h
+  28: hop
+  29: k
+  30: l
+  31: m
+  32: n
+  33: non
+  34: p
+  35: q
+  36: s
+  37: t
+  38: t-hoa
+  39: tron
+  40: tru
+  41: u
+  42: v
+  43: w
+  44: x
+  45: z
